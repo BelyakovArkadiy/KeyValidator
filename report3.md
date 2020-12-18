@@ -5,7 +5,7 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-* Валидные и не валидные ключи перепутаны. Ключи вводились по порядку -сначала валидные , потом нет.
+* Валидные и не валидные ключи перепутаны в документации https://github.com/BelyakovArkadiy/KeyValidator/issues/4#issue-770870831
 
 
  
@@ -14,14 +14,14 @@
 
 В процессе тестирования использовались следующие артефакты*:
 
-* Руководство использования KeyValidator доступная по ссылке на GitHub 
+* Руководство использования KeyValidator доступная по ссылке на GitHub https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
 
 
 
 В качестве тестовых данных использовались данные : 
 
 * ПК пользователя c доступом в интернет c установленным openjdk11
-* установленное приложение КeyValidator https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
+* установленное приложение КeyValidator 
 * Git Bash
                                                                                                         
 
