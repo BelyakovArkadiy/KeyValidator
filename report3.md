@@ -14,7 +14,7 @@
 
 В процессе тестирования использовались следующие артефакты*:
 
-* Руководство использования KeyValidator доступная по ссылке на GitHub https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
+* Руководство использования KeyValidator доступное по ссылке на GitHub https://github.com/netology-code/javaqa-homeworks/blob/master/intro/user-manual.md
 
 
 
