@@ -7,7 +7,7 @@
 
  * При передаче одного ключа для валидации приложение работает штатно.
 
- * Не передается более одного ключа для валидации https://github.com/BelyakovArkadiy/KeyValidator/issues/3#issue-770843742
+ * [Не передается более одного ключа для валидации](https://github.com/BelyakovArkadiy/KeyValidator/issues/3#issue-770843742)
  
  
 
